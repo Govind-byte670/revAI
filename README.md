@@ -1,5 +1,3 @@
-## revAI
-
 ## Setup Instructions
 
 1. Clone Repo
